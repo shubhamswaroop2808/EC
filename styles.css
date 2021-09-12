@@ -1,0 +1,48 @@
+body{margin: 0;
+  background-image: url("images/cybe.gif");
+text-align: center;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  width:400px;
+  margin: auto;
+  font-size: 90px;
+  color: #B1FFFD
+
+}
+h2{font-size: 50px;
+color: #ffffff;}
+p{
+  font-family: 'Nova Flat', cursive;
+  font-size: 40px;
+  color: #ffffff;
+}
+a{
+color: #38A3A5
+}
+.top-container{padding-top: 100px;
+position: relative;}
+.top-cloud{position: absolute;
+right: 300px;
+top: 50px;}
+.bottom-cloud{position: absolute;
+left: 300px;
+bottom: 300px;}
+.mypic{height: 30%;
+width:30%;}
+.giff{
+  position: relative;
+width: 10%;
+height: 10%;
+
+}
+.footer-link{font-size: 30px;
+color: #A8E7E9}
+#llc {font-size: 20px;}
+
+.bottom-container{margin: 50px; word-spacing: 5em;}
+.gif{height: 100%;
+width: 30%;}
+.contact-me{
+  font-family: 'Nunito', sans-serif;
+}
