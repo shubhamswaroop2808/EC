@@ -1,5 +1,6 @@
 body{margin: 0;
-  background-image: url("images/cybe.gif");
+  background-image: url("images/giphy.gif");
+  background-size: cover;
 text-align: center;
 }
 h1{
