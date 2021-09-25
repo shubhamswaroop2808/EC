@@ -1,13 +1,13 @@
 body{margin: 0;
-  background-image: url("images/giphy.gif");
-  background-size: cover;
+  background-image: url("images/love2.gif");
+  background-size:cover;
 text-align: center;
 }
 h1{
   font-family: 'Sacramento', cursive;
-  width:400px;
-  margin: auto;
-  font-size: 90px;
+  width:250px;
+  margin-left: 500;
+  font-size: 40px;
   color: #B1FFFD
 
 }
@@ -23,14 +23,12 @@ color: #38A3A5
 }
 .top-container{padding-top: 100px;
 position: relative;}
-.top-cloud{position: absolute;
-right: 300px;
-top: 50px;}
-.bottom-cloud{position: absolute;
-left: 300px;
-bottom: 300px;}
+
 .mypic{height: 30%;
-width:30%;}
+width:30%;
+margin-right: 700px;
+}
+
 .giff{
   position: relative;
 width: 15%;
@@ -41,9 +39,37 @@ height: 15%;
 color: #A8E7E9}
 #llc {font-size: 20px;}
 
-.bottom-container{margin: 50px; word-spacing: 5em;}
+.middle-container{
+  margin-right: 750px
+}
+
+.bottom-container{
+margin: 50px; word-spacing: 5em;
+margin-left: 850px;
+margin-top: 300px;
+}
+
 .gif{height: 100%;
-width: 30%;}
+width: 30%;
+}
+
 .contact-me{
   font-family: 'Nunito', sans-serif;
+}
+
+.twitter{
+
+}
+.fb{
+
+}
+.whatsapp{
+
+}
+.instagram{
+
+}
+.social{
+  margin-bottom: 20px;
+  margin-top:20px;
 }
